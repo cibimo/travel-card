@@ -1,5 +1,7 @@
 # 通信行程卡纪念版 H5
 
+
+修改自 https://github.com/coder-xiaomo/travel-card
 [GitHub](https://github.com/coder-xiaomo/travel-card) [Gitee](https://gitee.com/coder-xiaomo/travel-card)
 
 **注意：本项目仅作纪念，无实际意义，不得用于防疫等相关场景**
